@@ -6,7 +6,7 @@
 
 ### O que é?
 
-O Open Source é uma biblioteca open-source para visão computacional e processamento de imagens. Ele possui uma licença na qual permite o usuário utilizar, modificar e distribuir o software.
+O Open CV é uma biblioteca open-source para visão computacional e processamento de imagens. Ele possui uma licença na qual permite o usuário utilizar, modificar e distribuir o software.
 
 ### **Criador do Open CV**
 
